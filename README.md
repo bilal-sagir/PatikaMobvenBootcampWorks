@@ -1,4 +1,4 @@
 # PatikaMobvenBootcampWorks
 
-All the homeworks from Patika-Mobven-Bootcamps
+All the homeworks from Patika-Mobven-Bootcamp
 
