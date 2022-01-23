@@ -1,6 +1,6 @@
 # PatikaMobvenBootcampWorks
 
-All the homeworks from Patika-Mobven-Bootcamp
+All the homework assignments of Patika-Mobven-Bootcamp
 
 - Homework1 &#8594; Fibonacci calculator & Gitflow diagram
 - Homework2 &#8594; Data transfer between views via Notification Center, Delegate, Closure
