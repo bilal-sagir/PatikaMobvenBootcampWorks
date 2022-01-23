@@ -6,3 +6,4 @@ All the homeworks from Patika-Mobven-Bootcamp
 - Homework2 &#8594; Data transfer between views via Notification Center, Delegate, Closure
 - Homework3 &#8594; Creating Date Extension & Calculator App
 - Homework4 &#8594; webView & mapView 
+- Homework5 &#8594; mapView Routing & Banner Slider with Timer
