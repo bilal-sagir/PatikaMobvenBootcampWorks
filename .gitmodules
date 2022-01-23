@@ -10,3 +10,6 @@
 [submodule "hw4-bilal-sagir"]
 	path = hw4-bilal-sagir
 	url = https://github.com/148-Mobven-iOS-Bootcamp/hw4-bilal-sagir
+[submodule "hw5-bilal-sagir"]
+	path = hw5-bilal-sagir
+	url = https://github.com/148-Mobven-iOS-Bootcamp/hw5-bilal-sagir
